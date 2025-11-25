@@ -8,7 +8,7 @@
 
 ### 🌟 De las Humanidades a los Datos | From Humanities to Data Science 🌟
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Analista+de+Datos+%7C+Data+Analyst+%40+IMSS-BIENESTAR;Convirtiendo+narrativas+en+insights+%7C+Turning+narratives+into+insights)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Analista+de+Datos+%7C+Data+Analyst+%40+IMSS-BIENESTAR;Convirtiendo+narrativas+en+insights+%7C+Turning+narratives+into+insights)](https://git.io/typing-svg)
 
 </div>
 

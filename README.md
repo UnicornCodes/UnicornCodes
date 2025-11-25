@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Kyu%20%7C%20Data%20Storyteller&fontSize=80&fontAlignY=35&desc=Where%20Literature%20Meets%20Data%20Science&descAlignY=55&descSize=25&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Viridiana_Flores%20%7C%20Data%20Storyteller&fontSize=80&fontAlignY=35&desc=Where%20Literature%20Meets%20Data%20Science&descAlignY=55&descSize=25&animation=fadeIn)
 
 </div>
 

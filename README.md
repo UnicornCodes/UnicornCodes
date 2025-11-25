@@ -8,7 +8,7 @@
 
 ### 🌟 De las Humanidades a los Datos | From Humanities to Data Science 🌟
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Licenciada+en+Literatura+%7C+Hispanic+Literature+Graduate;Analista+de+Datos+%7C+Data+Analyst+%40+IMSS-BIENESTAR;Convirtiendo+narrativas+en+insights+%7C+Turning+narratives+into+insights)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Analista+de+Datos+%7C+Data+Analyst+%40+IMSS-BIENESTAR;Convirtiendo+narrativas+en+insights+%7C+Turning+narratives+into+insights)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,12 +19,12 @@
 ```python
 class DataStoryteller:
     def __init__(self):
-        self.name = "Kyu"
+        self.name = "Viridiana"
         self.background = "Hispanic Literature & Language (UNAM)"
         self.current_role = "Data Analyst @ IMSS-BIENESTAR"
         self.superpower = "Humanidades + Tecnología"
         self.languages = {
-            "human": ["Español (Nativo)", "English (C1)", "Deutsch (C2)"],
+            "human": ["Español (Nativo)", "English (C1)", "Deutsch (B2)"],
             "programming": ["Python", "R", "SQL", "DAX"]
         }
         
@@ -220,7 +220,7 @@ Balance between art and method → Innovative solutions with analytical rigor
 <img src="https://img.icons8.com/color/96/000000/germany.png" width="60"/>
 
 **Deutsch**  
-🏆 C2 - Mastery
+🏆 B2 - Intermediate
 
 </td>
 </tr>
@@ -244,7 +244,7 @@ Balance between art and method → Innovative solutions with analytical rigor
 | 🎓 Grado | 🏛️ Institución | 📅 Año |
 |----------|----------------|---------|
 | 📚 **Licenciatura en Lengua y Literaturas Hispánicas** | UNAM - Universidad Nacional Autónoma de México | 🎯 |
-| 🤖 **Data Science Bootcamp** | TripleTen | 🔄 En progreso |
+| 🤖 **Data Science Bootcamp** | TripleTen | ✅ Completado |
 | 📊 **Google Data Analytics Certificate** | Google | ✅ Completado |
 | 🔒 **Google Cybersecurity Certificate** | Google | ✅ Completado |
 
